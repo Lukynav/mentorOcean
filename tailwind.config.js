@@ -14,6 +14,10 @@ module.exports = {
       spacing: {
         '128': '32rem',
         '300': '57rem'
+      },
+      screens:{
+        md:'1020px',
+        sm:'700px'
       }
     },
   },
