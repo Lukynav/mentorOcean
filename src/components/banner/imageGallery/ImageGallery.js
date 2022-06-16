@@ -1,5 +1,5 @@
 import picture1 from '../../../../public/pictures/picture-1.jpg'
-import picture2 from '../../../../public/pictures/picture-2.avif'
+import picture2 from '../../../../public/pictures/picture-2.jpg'
 import picture3 from '../../../../public/pictures/picture-3.jpg'
 import picture4 from '../../../../public/pictures/picture-4.jpg'
 
