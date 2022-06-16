@@ -4,8 +4,8 @@ import logo from '../../../public/logo.svg'
 export default function(){
     return(
         <>
-            <img className='h-6 hidden sm:block' src={logoFull.src}/>
-            <img className='h-6 block sm:hidden' src={logo.src}/>
+            <img className='h-8 hidden sm:block' src={logoFull.src}/>
+            <img className='h-8 block sm:hidden' src={logo.src}/>
         </>
     )
 }
